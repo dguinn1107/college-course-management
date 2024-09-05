@@ -1,0 +1,13 @@
+C:\Users\761415\source\repos\HW2\obj\Debug\HW2.csproj.AssemblyReference.cache
+C:\Users\761415\source\repos\HW2\obj\Debug\HW2.Main.resources
+C:\Users\761415\source\repos\HW2\obj\Debug\HW2.Properties.Resources.resources
+C:\Users\761415\source\repos\HW2\obj\Debug\HW2.csproj.GenerateResource.cache
+C:\Users\761415\source\repos\HW2\obj\Debug\HW2.csproj.CoreCompileInputs.cache
+C:\Users\761415\source\repos\HW2\bin\Debug\HW2.exe.config
+C:\Users\761415\source\repos\HW2\bin\Debug\HW2.exe
+C:\Users\761415\source\repos\HW2\bin\Debug\HW2.pdb
+C:\Users\761415\source\repos\HW2\obj\Debug\HW2.csproj.Up2Date
+C:\Users\761415\source\repos\HW2\obj\Debug\HW2.exe
+C:\Users\761415\source\repos\HW2\obj\Debug\HW2.pdb
+C:\Users\761415\source\repos\HW2\bin\Debug\CollegeCourseDLL.dll
+C:\Users\761415\source\repos\HW2\bin\Debug\CollegeCourseDLL.pdb
